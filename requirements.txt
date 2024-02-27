@@ -1,5 +1,0 @@
-pyautogui
-keyboard
-time
-random
-pyinstaller
