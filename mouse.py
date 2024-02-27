@@ -41,7 +41,7 @@ def toggle_program():
     print(f"Program {'active' if active else 'inactive'}")
 
 # Set up a hotkey to toggle the program's state
-keyboard.add_hotkey('ctrl+alt+p', toggle_program)
+keyboard.add_hotkey('ctrl+alt+m', toggle_program)
 
 # Main loop that moves the mouse every time_amount seconds
 while True:
