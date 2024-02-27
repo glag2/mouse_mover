@@ -1,12 +1,12 @@
 import pyautogui
 import time
 import random
-import keyboard  # Library for listening to key presses
+import keyboard
 
 # Define the range of pixels the mouse can move in any direction
-pixel_amount =  10
+pixel_amount =  1
 # Time interval between mouse movements
-time_amount =  1
+time_amount =  10
 # State variable to control the program's activation
 active = True
 
